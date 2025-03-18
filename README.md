@@ -2,7 +2,7 @@
 
 ## Content 
 
- The goal is this lab is to control one arm of the Baxter robot, first in simulation then on the real robot.
+ The goal of this lab is to control one arm of the Baxter robot, first in simulation then on the real robot.
  The robot is simulated with CoppeliaSim1. In the simulation is placed a green sphere. The goal is to move the arm so that the sphere is centered and at a given distance from the camera.
  The robot control will be performed in C++ and will rely on:
  - The ROS framework to handle communication between the simulator and the control
